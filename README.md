@@ -28,8 +28,8 @@ By implementing this project i found that MPC is better as compared to PID in te
 
 ### Update Equations
 
-![alt text](https://github.com/singh-atul/CarND-MPC-Project/tree/master/img_res/image1.jpg)
-[img_res/image2]
+![](https://github.com/singh-atul/CarND-MPC-Project/tree/master/img_res/image1.jpg)
+![](https://github.com/singh-atul/CarND-MPC-Project/tree/master/img_res/image2.jpg)
 
 dt = rate of change of state
 lf = diffrenec between vehicle axle and its center of gravity
