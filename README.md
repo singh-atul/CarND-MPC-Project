@@ -28,7 +28,7 @@ By implementing this project i found that MPC is better as compared to PID in te
 
 ### Update Equations
 
-![](https://github.com/singh-atul/CarND-MPC-Project/tree/master/img_res/image1.jpg)
+![alt text](.img_res/image1.jpg)
 ![](https://github.com/singh-atul/CarND-MPC-Project/tree/master/img_res/image2.jpg)
 
 dt = rate of change of state
