@@ -29,7 +29,7 @@ By implementing this project i found that MPC is better as compared to PID in te
 ### Update Equations
 
 ![alt text](./img_res/image1.jpg)
-![](https://github.com/singh-atul/CarND-MPC-Project/tree/master/img_res/image2.jpg)
+![alt text](./img_res/image2.jpg)
 
 dt = rate of change of state
 lf = diffrenec between vehicle axle and its center of gravity
@@ -51,8 +51,7 @@ I have used a 3rd degree polynomial as suggested in the classroom as it turned o
 
 The provided way-points are in global co-ordinate system so in order to convert the vehicle local co-ordinate system following formula are used : 
 
-[img_res/image3]
-
+![alt text](./img_res/image3.jpg)
 
 Finally i have provided weight to the cost parameter . These weights are determ which parameter should be given more weightage. More the weight more penalty it will have on the cost error.
 
