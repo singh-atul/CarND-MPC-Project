@@ -117,7 +117,7 @@ I have taken 100ms latency delay(dt) as it was in rubric of the project. In real
 
 Following is the screenschot of the final outcome of my project . Yellow line shows the path to be followed while the green one is the predicted path
 
-![alt text](./img_res/image4.jpg)
+![alt text](./img_res/image4.png)
 
 
 
